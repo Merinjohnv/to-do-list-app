@@ -4,8 +4,8 @@ A clean and responsive To-Do List web application that allows users to add, mark
 
 ##  Features
 - Add new tasks
-- Mark tasks as completed (✔ strike-through)
-- Delete individual tasks (✖)
+- Mark tasks as completed 
+- Delete individual tasks
 - Clear all tasks
 - Persistent storage using localStorage
 - Responsive and modern UI
@@ -13,7 +13,7 @@ A clean and responsive To-Do List web application that allows users to add, mark
 ##  Built With
 - HTML
 - CSS
-- JavaScript (Vanilla)
+- JavaScript
 
 ##  Live Demo
 https://merinjohnv.github.io/to-do-list-app/
